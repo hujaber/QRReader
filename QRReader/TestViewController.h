@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  TestViewController.h
 //  QRReader
 //
 //  Created by Administrator on 8/16/17.
 //  Copyright © 2017 Hussein Jaber. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "HJQRScanner.h"
 
-@interface ViewController : UIViewController
-
+@interface TestViewController : HJQRScanner
 
 @end
-
